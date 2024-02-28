@@ -1,6 +1,4 @@
 # Prevendo a chance de clientes de hotéis cancelarem ou manterem reservas realizadas
-Trabalho realizado para a disciplina de Aprendizagem de Máquina.
-
 ## Especificação
 A possibilidade de realizar reservas online em hotéis mudou drasticamente o comportamento de clientes. Os hotéis enfrentam grandes problemas devido ao cancelamento de reservas ou o não comparecimento dos hóspedes, devido a muitos hotéis não terem taxa de cancelamento ou esta ser muito baixa, fazendo com que o hotel saia no prejuízo.
 
