@@ -4,7 +4,7 @@ A possibilidade de realizar reservas online em hotéis mudou drasticamente o com
 ### Objetivo
 - Utilizar a seguinte base de dados do Kaggle para desenvolver o trabalho: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset;
 - Escolher uma resolução desse problema realizada por algum usuário, com a finalidade de tentar obter um resultado melhor (escolhemos esta, que utiliza Floresta Aleatória e a chamaremos de técnica A: https://www.kaggle.com/code/battle11king/hotel-reservation);
-- Utilizar técnicas de aprendizagem de máquina para prever se um cliente seguirá com sua reserva em um hotel ou irá cancelar;
+- Utilizar técnicas de aprendizagem de máquina para prever qual método é melhor para descobrir se um cliente seguirá com sua reserva em um hotel ou irá cancelar;
 - Comparar os resultados das técnicas a fim de obter a com melhor desempenho;
 - Verificar se é possível obter um melhor resultado utilizando  a técnica de *cross-validation* com *grid search*
 
